@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2264CA6628FE243C00E16098 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2264CA6528FE243C00E16098 /* CommentCell.swift */; };
 		2274695628EFCD1A00BFE0CD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2274695528EFCD1A00BFE0CD /* AppDelegate.swift */; };
 		2274695828EFCD1A00BFE0CD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2274695728EFCD1A00BFE0CD /* SceneDelegate.swift */; };
 		2274695D28EFCD1A00BFE0CD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2274695B28EFCD1A00BFE0CD /* Main.storyboard */; };
@@ -43,6 +44,7 @@
 
 /* Begin PBXFileReference section */
 		0F09FDD3E62F0EA2A9F1FE9F /* Pods_Instagram.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Instagram.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		2264CA6528FE243C00E16098 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		2274695228EFCD1A00BFE0CD /* Instagram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Instagram.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2274695528EFCD1A00BFE0CD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2274695728EFCD1A00BFE0CD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -125,6 +127,7 @@
 				2274695528EFCD1A00BFE0CD /* AppDelegate.swift */,
 				2274695728EFCD1A00BFE0CD /* SceneDelegate.swift */,
 				2274695B28EFCD1A00BFE0CD /* Main.storyboard */,
+				2264CA6528FE243C00E16098 /* CommentCell.swift */,
 				2274698D28F2777800BFE0CD /* PostCell.swift */,
 				2274698528EFEAAB00BFE0CD /* LoginViewController.swift */,
 				2274698728EFEB2300BFE0CD /* FeedViewController.swift */,
@@ -421,6 +424,7 @@
 				2274698828EFEB2300BFE0CD /* FeedViewController.swift in Sources */,
 				2274695828EFCD1A00BFE0CD /* SceneDelegate.swift in Sources */,
 				2274698E28F2777800BFE0CD /* PostCell.swift in Sources */,
+				2264CA6628FE243C00E16098 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
